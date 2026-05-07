@@ -1,0 +1,6 @@
+Algorithm,Best Feature Subset,Mean Accuracy,Std,# Features
+Neural Network,"Temporal Distribution, T/R, Processor Utilization, Input Waiting Time",0.609390625,0.059274172202017084,4
+Logistic Regression,"Temporal Distribution, T/R, Processor Utilization, Network Response Time",0.495484375,0.05776915393602692,4
+Gaussian NB,"Node Number, Processor Utilization, Input Waiting Time, Channel Utilization",0.436703125,0.06099836503636286,4
+Linear Classifier,"Temporal Distribution, Processor Utilization, Channel Waiting Time, Network Response Time",0.42365625,0.07153623289765473,4
+KNN,"Node Number, Temporal Distribution, T/R, Channel Utilization",0.409078125,0.05954383684193835,4
